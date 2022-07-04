@@ -1,0 +1,11 @@
+{
+  "name": "jest-arrays-with-extra-properties",
+  "private": true,
+  "scripts": {
+    "test": "jest jest-arrays-with-extra-properties.test.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
