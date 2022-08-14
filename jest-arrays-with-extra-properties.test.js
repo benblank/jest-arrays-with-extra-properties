@@ -46,7 +46,7 @@ describe('extra properties on arrays', () => {
 
     expect(() =>
       expect(arrayWithFooBar).toMatchInlineSnapshot(`
-Array [
+[
   1,
   2,
   3,
